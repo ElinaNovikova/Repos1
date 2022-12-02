@@ -32,3 +32,8 @@
 6. Выгрузка коммитов приложения из локального репозитория на github.com.
 
 Для запуска пользовательского приложения в файле `app.py` необходима библиотека `streamlit` (pip install streamlit)
+
+Пример выполнения приложения:
+
+![Screenshot_1](https://user-images.githubusercontent.com/118816624/205231062-29b9ae26-6a91-45d3-b2f0-5972174f4af8.png)
+
